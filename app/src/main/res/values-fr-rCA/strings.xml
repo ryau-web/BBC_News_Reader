@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Lecteur de nouvelles BBC</string>
+    <string name="version">v1.0</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_open">Ouvrir le tiroir de navigation</string>
+    <string name="nav_close">Fermer le tiroir de navigation</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_search">Rechercher des nouvelles</string>
+    <string name="nav_favourites">Favoris</string>
+    <string name="nav_settings">Paramètres</string>
+
+    <!-- Main Activity -->
+    <string name="main_title">Lecteur de nouvelles BBC</string>
+    <string name="welcome_message">Bienvenue au Lecteur de nouvelles BBC</string>
+    <string name="last_article">Dernier article consulté:</string>
+    <string name="no_articles_yet">Aucun article consulté pour le moment</string>
+    <string name="btn_search_news">Rechercher des nouvelles</string>
+    <string name="btn_view_favourites">Voir les favoris</string>
+
+    <!-- Search News Activity -->
+    <string name="search_title">Rechercher des nouvelles BBC</string>
+    <string name="btn_load_news">Charger les dernières nouvelles</string>
+    <string name="loading_news">Chargement des articles…</string>
+    <string name="news_loaded">Articles chargés avec succès</string>
+    <string name="error_loading_news">Erreur lors du chargement. Veuillez réessayer.</string>
+    <string name="hint_search">Rechercher des articles…</string>
+
+    <!-- Favourites Activity -->
+    <string name="favourites_title">Mes favoris</string>
+    <string name="no_favourites">Aucun article favori enregistré</string>
+    <string name="delete_favourite">Supprimer</string>
+    <string name="favourite_deleted">Article retiré des favoris</string>
+    <string name="undo">Annuler</string>
+
+    <!-- Article Detail Activity -->
+    <string name="detail_title">Détails de l\'article</string>
+    <string name="article_title">Titre:</string>
+    <string name="article_description">Description:</string>
+    <string name="article_date">Publié:</string>
+    <string name="article_link">Lien:</string>
+    <string name="btn_open_browser">Ouvrir dans le navigateur</string>
+    <string name="btn_save_favourite">Enregistrer dans les favoris</string>
+    <string name="btn_remove_favourite">Retirer des favoris</string>
+    <string name="article_saved">Article enregistré dans les favoris</string>
+    <string name="article_already_saved">Article déjà dans les favoris</string>
+
+    <!-- Settings Activity -->
+    <string name="settings_title">Paramètres</string>
+    <string name="setting_auto_load">Charger automatiquement les nouvelles au démarrage</string>
+    <string name="setting_saved">Paramètres enregistrés</string>
+
+    <!-- Help Dialogs -->
+    <string name="help_title">Aide</string>
+    <string name="help_main">Ceci est l\'écran d\'accueil. Utilisez le tiroir de navigation (icône en haut à gauche) pour accéder à Rechercher des nouvelles, Favoris et Paramètres.</string>
+    <string name="help_search">Appuyez sur \"Charger les dernières nouvelles\" pour télécharger les derniers titres de BBC. Appuyez sur un article pour voir les détails et l\'enregistrer dans les favoris.</string>
+    <string name="help_favourites">Cet écran affiche vos articles enregistrés. Appuyez sur un article pour voir les détails. Appuyez longuement pour supprimer un article.</string>
+    <string name="help_detail">Consultez les détails complets de l\'article ici. Appuyez sur \"Ouvrir dans le navigateur\" pour lire l\'article complet sur le site de BBC. Utilisez le bouton d\'enregistrement pour ajouter aux favoris.</string>
+    <string name="help_settings">Configurez les préférences de l\'application ici. Les modifications sont enregistrées automatiquement.</string>
+    <string name="ok">OK</string>
+
+    <!-- Menu -->
+    <string name="menu_help">Aide</string>
+    <string name="menu_refresh">Actualiser</string>
+</resources>

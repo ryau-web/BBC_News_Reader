@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">BBC News Reader</string>
+    <string name="version">v1.0</string>
+
+    <!-- Navigation Drawer -->
+    <string name="nav_open">Open navigation drawer</string>
+    <string name="nav_close">Close navigation drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_search">Search News</string>
+    <string name="nav_favourites">Favourites</string>
+    <string name="nav_settings">Settings</string>
+
+    <!-- Main Activity -->
+    <string name="main_title">BBC News Reader</string>
+    <string name="welcome_message">Welcome to BBC News Reader</string>
+    <string name="last_article">Last viewed article:</string>
+    <string name="no_articles_yet">No articles viewed yet</string>
+    <string name="btn_search_news">Search News</string>
+    <string name="btn_view_favourites">View Favourites</string>
+
+    <!-- Search News Activity -->
+    <string name="search_title">Search BBC News</string>
+    <string name="btn_load_news">Load Latest News</string>
+    <string name="loading_news">Loading news articles…</string>
+    <string name="news_loaded">News articles loaded successfully</string>
+    <string name="error_loading_news">Error loading news. Please try again.</string>
+    <string name="hint_search">Search articles…</string>
+
+    <!-- Favourites Activity -->
+    <string name="favourites_title">My Favourites</string>
+    <string name="no_favourites">No favourite articles saved yet</string>
+    <string name="delete_favourite">Delete</string>
+    <string name="favourite_deleted">Article removed from favourites</string>
+    <string name="undo">Undo</string>
+
+    <!-- Article Detail Activity -->
+    <string name="detail_title">Article Details</string>
+    <string name="article_title">Title:</string>
+    <string name="article_description">Description:</string>
+    <string name="article_date">Published:</string>
+    <string name="article_link">Link:</string>
+    <string name="btn_open_browser">Open in Browser</string>
+    <string name="btn_save_favourite">Save to Favourites</string>
+    <string name="btn_remove_favourite">Remove from Favourites</string>
+    <string name="article_saved">Article saved to favourites</string>
+    <string name="article_already_saved">Article already in favourites</string>
+
+    <!-- Settings Activity -->
+    <string name="settings_title">Settings</string>
+    <string name="setting_auto_load">Auto-load news on startup</string>
+    <string name="setting_saved">Settings saved</string>
+
+    <!-- Help Dialogs -->
+    <string name="help_title">Help</string>
+    <string name="help_main">This is the home screen. Use the navigation drawer (top-left icon) to access Search News, Favourites, and Settings.</string>
+    <string name="help_search">Tap \"Load Latest News\" to download the latest BBC news headlines. Tap any article to view details and save to favourites.</string>
+    <string name="help_favourites">This screen shows your saved articles. Tap an article to view details. Long-press to delete an article.</string>
+    <string name="help_detail">View full article details here. Tap \"Open in Browser\" to read the full article on BBC\'s website. Use the save button to add to favourites.</string>
+    <string name="help_settings">Configure app preferences here. Changes are saved automatically.</string>
+    <string name="ok">OK</string>
+
+    <!-- Menu -->
+    <string name="menu_help">Help</string>
+    <string name="menu_refresh">Refresh</string>
+</resources>
